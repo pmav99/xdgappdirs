@@ -1,6 +1,6 @@
 import sys
 import unittest
-import xdgxdgappdirs
+import xdgappdirs
 
 if sys.version_info[0] < 3:
     STRING_TYPE = basestring
